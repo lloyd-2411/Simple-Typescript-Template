@@ -1,0 +1,22 @@
+{
+  "name": "simple-typescript-template",
+  "version": "1.0.0",
+  "description": "A simple typescript project template.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.2",
+    "@types/yargs": "^17.0.35",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "yargs": "^18.0.0"
+  }
+}
